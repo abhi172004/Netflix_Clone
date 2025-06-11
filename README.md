@@ -1,6 +1,6 @@
 # 🍿 Netflix Clone
 
-A responsive, interactive Netflix-style website built with **HTML**, **CSS**, and **JavaScript**, featuring dynamic movie browsing powered by The Movie Database (TMDb) API.
+A responsive, interactive Netflix-style website built with **ReactJS**, featuring dynamic movie browsing powered by The Movie Database (TMDb) API.
 
 ---
 
